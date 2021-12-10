@@ -1,4 +1,4 @@
-# Occlude Them All: Occlusion-Aware Mask Network for Person Re-identification
+# Occlude Them All: Occlusion-Aware Attention Network for Occluded Person Re-ID
 
 ### Dependent
 * python 3.7.5
