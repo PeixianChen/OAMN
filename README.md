@@ -1,7 +1,7 @@
 # Occlude Them All: Occlusion-Aware Attention Network for Occluded Person Re-ID
 
 This resposity is the official implementation of our ICCV2021 [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Occlude_Them_All_Occlusion-Aware_Attention_Network_for_Occluded_Person_Re-ID_ICCV_2021_paper.html). 
-![network](./network.png)
+![network](./network.pdf)
 
 ### Dependent
 * python 3.7.5
