@@ -18,6 +18,8 @@ This resposity is the official implementation of our ICCV2021 [Paper](https://op
     bash train_partial.sh
 ```
 
+### Model
+[Download](https://drive.google.com/drive/folders/1CtyVlnxxq1OBGwk7AELjk-XCQ82q-wWl?usp=sharing) the model.
 ### Citations
 If our paper helps your research, please cite it in your publications:
 ```
